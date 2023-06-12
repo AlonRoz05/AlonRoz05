@@ -3,13 +3,11 @@
 `(Proggramer & Surfer)`
 
 ### about me:
-- I'm a machine leanrning engineer. 🔥
-- I'm 13 years old. 🎈
+- 👨🏽‍🎓 I'm a machine leanrning engineer.
+- 🎈 I'm 13 years old.
 - 📚 I’m currently learning Machine learning and NLP.
-- 📫 You can reach me at: a05rozi@gmail.com
+- 📫 You can reach me at: a05rozi@gmail.com.
 - 😄 Fun fact: I started proggraming at age of 9.
-
----
 
 ### 👨🏽‍💻🛠️ Languages and Tools I use
 
